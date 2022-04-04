@@ -1,0 +1,20 @@
+body{
+    background-image: url(/imagenes/737481.png);
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+p{
+    color: palevioletred;
+    text-align: center;
+    font-size: 30px
+}
